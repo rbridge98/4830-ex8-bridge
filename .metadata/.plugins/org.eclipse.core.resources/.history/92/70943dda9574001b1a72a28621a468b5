@@ -1,0 +1,12 @@
+public class Test{
+public static void main(String args[])
+	{
+		int x = 2;
+		int y = 3;
+		for (x++; y < 2; y < x)
+		{
+			System.out.println("test");
+		}
+		System.out.println("test1");
+	}
+}

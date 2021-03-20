@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+C:\Users\ryker\workspace4830-bridge\.metadata\.plugins\org.eclipse.jdt.core
+754178599.index
+3271193799.index
